@@ -2,13 +2,13 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Обо мне
 
 Я занимаюсь frontend-разработкой. Создаю интерактивные и адаптивные сайты. Проектирую SPA и другие типы web-приложений. Готов к переезду.
 
 ---
 
-### 💻 Технологии:
+### 💻 Технологии
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp  
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Инструменты
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
@@ -36,7 +36,7 @@
 
 ---
 
-### Cайт-портфолио:
+### Cайт-портфолио
 
 <div>
   <a href="https://realwwwdev.github.io/Portfolio"><img src="https://damion.club/uploads/posts/2022-01/thumbs/1643199082_24-damion-club-p-kot-za-kompyuterom-25.jpg" title="portfolio" alt="portfolio" width="100" height="100"/></a>
