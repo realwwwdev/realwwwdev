@@ -39,7 +39,7 @@
 ### Cайт-портфолио
 
 <div>
-  <a href="https://realwwwdev.github.io/Portfolio"><img src="https://damion.club/uploads/posts/2022-01/thumbs/1643199082_24-damion-club-p-kot-za-kompyuterom-25.jpg" style="border-radius: 10px" "title="portfolio" alt="portfolio" width="100" height="100"/></a>
+  <a href="https://realwwwdev.github.io/Portfolio"><img src="https://damion.club/uploads/posts/2022-01/thumbs/1643199082_24-damion-club-p-kot-za-kompyuterom-25.jpg" "title="portfolio" alt="portfolio" width="100" height="100"/></a>
 </div>
 
 ---
