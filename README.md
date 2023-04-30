@@ -36,4 +36,4 @@
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=realwwwdev.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=realwwwdev)
