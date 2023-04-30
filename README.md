@@ -2,6 +2,14 @@
 
 ---
 
+### :man_technologist: Мой сайт-портфолио:
+
+<div>
+  <a href="https://realwwwdev.github.io/Portfolio"><img src="https://damion.club/uploads/posts/2022-01/thumbs/1643199082_24-damion-club-p-kot-za-kompyuterom-25.jpg" title="portfolio" alt="portfolio" width="40" height="40"/></a>
+</div>
+
+---
+
 ### :man_technologist: Обо мне:
 
 Я занимаюсь frontend-разработкой. Создаю интерактивные и адаптивные сайты. Проектирую SPA и другие типы web-приложений. Готов к переезду.
