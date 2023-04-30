@@ -6,6 +6,8 @@
 
 Я занимаюсь frontend-разработкой. Создаю интерактивные и адаптивные сайты. Проектирую SPA и другие типы web-приложений. Готов к переезду.
 
+---
+
 ### 💻 Технологии:
 
 <div>
@@ -21,6 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
 </div>
+
+---
 
 ### 🛠 Инструменты:
 
