@@ -36,4 +36,4 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=realwwwdev)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=realwwwdev.visitor-badge&left_text=Мои%20Посетители)
