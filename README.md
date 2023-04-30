@@ -2,7 +2,7 @@
 
 ---
 
-### Мой сайт-портфолио:
+### Cайт-портфолио:
 
 <div>
   <a href="https://realwwwdev.github.io/Portfolio"><img src="https://damion.club/uploads/posts/2022-01/thumbs/1643199082_24-damion-club-p-kot-za-kompyuterom-25.jpg" title="portfolio" alt="portfolio" width="80" height="80"/></a>
